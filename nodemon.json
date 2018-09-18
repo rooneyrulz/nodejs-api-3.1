@@ -1,0 +1,7 @@
+{
+    "env": {
+        "PORT": 9090,
+        "MYSQL_PASSWORD": "roony",
+        "JWT_KEY": "jwt@123.com"
+    }
+}
